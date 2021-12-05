@@ -6,7 +6,7 @@ namespace Advent_of_Code_2021
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Day_4.Day_4_2.Solve());
+            Console.WriteLine(Day_5.Day_5_2.Solve());
             Console.ReadKey();
         }
     }
